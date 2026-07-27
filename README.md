@@ -159,7 +159,7 @@ These visualizations strengthened my ability to communicate data-driven insights
 ```text
 NSDC-Netflix-Data-Cleaning-Project/
 │
-├── Finshed_version_Netflix_Data_Cleaning.ipynb
+├── Finished_version_Netflix_Data_Cleaning.ipynb
 ├── Blank_version_Netflix_Data_Cleaning.ipynb
 ├── README.md
 
