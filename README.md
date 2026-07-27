@@ -1,7 +1,3 @@
-Here's how I would rewrite the **Netflix Data Cleaning Project** README.
-
----
-
 # Netflix Data Cleaning Project
 
 ### National Student Data Corps (NSDC) Data Science Project
